@@ -306,7 +306,7 @@ user-select: none;
 .content__img,
 .content__title,.content__title2,
 .content__author,
-..content__desc,
+.content__desc,
 .content__desc2, {
 	transition: transform 0.3s ease-out;
 }
