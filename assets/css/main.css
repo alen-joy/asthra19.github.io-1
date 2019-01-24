@@ -719,6 +719,10 @@ left: 60%;
 .intro--options p {
     margin-bottom: 0;
 }
+.intro-option2{
+    display: none;
+}
+
 @media (max-width: 900px) {
     .intro--banner {
     height: 380px;
@@ -792,6 +796,26 @@ display: none;
 .intro--options {
     display: none;
 }
+.intro-option2{
+    display: block;
+    padding-top: 30px;
+}
+.intro-option2 h1 {
+    font-size: 13px;
+}
+ .intro-option2 h1::before {
+    display: inline-block;
+    content: "";
+    border-top: .1rem solid rgb(98, 31, 206);
+    width: 2rem;
+    margin: 0 1rem;
+    transform: translateY(-.2rem);
+}
+.intro-option2 h2{
+    padding-left:61%;
+    font-size: 16px;
+}
+
 }.work {
     position: relative;
     display: -webkit-box;
