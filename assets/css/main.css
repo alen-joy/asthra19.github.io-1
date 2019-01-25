@@ -1826,7 +1826,7 @@ padding: 0 10px;
   font-weight: normal;
   font-size: 12px;
 }
-@media  (min-width:800px){
+@media  (max-width:50em){
   .clg-name{
     font-weight: normal;
     font-size: 10px;
