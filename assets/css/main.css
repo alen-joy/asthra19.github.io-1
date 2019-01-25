@@ -802,6 +802,7 @@ display: none;
 }
 .intro-option2 h1 {
     font-size: 13px;
+    font-weight: 500;
 }
  .intro-option2 h1::before {
     display: inline-block;
