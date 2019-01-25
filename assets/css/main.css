@@ -1826,7 +1826,11 @@ padding: 0 10px;
   font-weight: normal;
   font-size: 12px;
 }
-
+@media  (min-width:800px){
+  .clg-name{
+    font-weight: normal;
+    font-size: 10px;
+  }}
 .footer{
   font-size: 13px;
   color: #fff;
