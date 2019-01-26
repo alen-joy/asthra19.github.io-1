@@ -798,6 +798,15 @@ SVG Icons - svgicons.sparkk.fr
 			color: #fff;
 			padding: 20px 5px;
 		}
+		.modal-content h1{
+			font-size: 1.75em;
+		}
+		.modal-content h3{
+			font-size: 1em;
+		}
+		.modal-content h4{
+			font-size: 0.80em;
+		}
 		.modal-content p{
 			color:#fff;
 			font-weight: 500;
