@@ -648,7 +648,7 @@ h1{
   line-height: 24px;
   color: #fff;
   position: relative;
-}
+}/*
 .fancy-button.bg-gradient1 {
   text-shadow: 0px 0px 1px #bf4c28;
 }
@@ -657,7 +657,7 @@ h1{
 }
 .fancy-button.bg-gradient3 {
   text-shadow: 0 0 1px #546082;
-}
+}*/
 .fancy-button:before {
   content: '';
   display: inline-block;
