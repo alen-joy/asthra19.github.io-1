@@ -130,3 +130,14 @@
 .modal-content .nav a:hover{
 	color: #202692;
 }
+
+@media screen and (max-width: 50em) {
+	.modal-content .nav a{
+		line-height: 45px;
+		font-size: 20px;
+	}
+
+	.modal-content .nav a:hover{
+		color: #202692;
+	}
+}
