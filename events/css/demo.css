@@ -843,7 +843,7 @@ list-style: none}
 
 @media screen and (max-width: 50em) {
 	.modal-content .nav a{
-		line-height: 45px;
+		line-height: 40px;
 		font-size: 20px;
 	}
 
