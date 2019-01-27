@@ -842,6 +842,11 @@ list-style: none}
 }
 
 @media screen and (max-width: 50em) {
+
+	.nav{
+		padding: 5px 0;
+		text-align: center;
+	}
 	.modal-content .nav a{
 		line-height: 40px;
 		font-size: 20px;
