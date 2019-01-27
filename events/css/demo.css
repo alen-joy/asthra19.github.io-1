@@ -770,6 +770,8 @@ SVG Icons - svgicons.sparkk.fr
 	padding: 0 10em;
 	text-align: center;
 }
+ li{
+list-style: none}
 
 .c-header{
 	color: #000;
@@ -823,4 +825,18 @@ SVG Icons - svgicons.sparkk.fr
   font-weight: 600;
   line-height: 0em;
   padding: 1em 0;
+}
+
+.nav{
+	padding: 10px 0;
+	text-align: center;
+}
+
+.modal-content .nav a{
+	padding: 15px 0;
+	font-size: 22px;
+}
+
+.modal-content .nav a:hover{
+	color: #202692;
 }
