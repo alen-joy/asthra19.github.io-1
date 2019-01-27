@@ -120,10 +120,13 @@
 .nav{
 	padding: 10px 0;
 	text-align: center;
-
 }
 
 .modal-content .nav a{
 	padding: 15px 0;
 	font-size: 24px;
+}
+
+.modal-content .nav a:hover{
+	color: #202692;
 }
