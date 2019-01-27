@@ -833,7 +833,7 @@ list-style: none}
 }
 
 .modal-content .nav a{
-	padding: 15px 0;
+	line-height: 45px;
 	font-size: 22px;
 }
 
